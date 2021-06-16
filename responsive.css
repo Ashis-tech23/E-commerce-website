@@ -18,8 +18,8 @@
         justify-content: center;
     }
     .slider{
-        height: 100vh;
-    width: 170vw;
+        height: 300px;
+    width: 270px;
     overflow: scroll;
     }
      .cards{
