@@ -72,21 +72,23 @@ nav{
 
 }
 .slider{
-    width: 80vw;
-    margin:12px auto;
-    overflow:  hidden;
+   height:auto;
+    width:100vw;
+    display:flex;
+    justify-content:center;
+    overflow:hidden;
 
 
 }
-.slider img{
+/* .slider img{
     width: 30vw;
     margin: auto;
     display: flex;
     justify-content: center;
-}
+} */
 
 .container{
-    height:860px;
+    height:260vh;
     background-color: cornsilk;
 }
 .logo{
