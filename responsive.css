@@ -1,0 +1,35 @@
+@media  screen and (max-width:1000px) 
+{
+
+    body{
+        background-color:rgba(166, 196, 235, 0.863);
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+        margin: 12px 0;
+    }
+    .logo img{
+        width:147px;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .slider{
+        height: 51vh;
+    width: 98vw;
+    overflow: scroll;
+    }
+     .cards{
+        overflow: hidden;
+    } 
+    .card-item img{
+        width: 84px;
+    }
+    .container{
+        height: 358vh;
+    }
+
+}
