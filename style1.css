@@ -73,7 +73,7 @@ nav{
 }
 .slider{
    height:auto;
-    width:210vw;
+    width:auto;
     display:flex;
     justify-content:center;
     overflow:scroll;
